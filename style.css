@@ -148,3 +148,12 @@ div:hover {
     background-color: #8a2be244;
     box-sizing: border-box;
 }
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: 10px solid blueviolet;
+    object-fit: cover;
+    box-shadow: 2px 3px 5px gray;
+}
